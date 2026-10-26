@@ -1,0 +1,13 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" fill="#c67139"/>
+  <g transform="translate(512,512)" stroke="#f5ead8" stroke-width="54" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- anchor ring -->
+    <circle cx="0" cy="-230" r="68" fill="none"/>
+    <!-- anchor shaft -->
+    <line x1="0" y1="-162" x2="0" y2="230"/>
+    <!-- anchor crossbar -->
+    <line x1="-150" y1="-70" x2="150" y2="-70"/>
+    <!-- anchor flukes -->
+    <path d="M -230 90 C -230 220 -110 260 0 260 C 110 260 230 220 230 90" fill="none"/>
+  </g>
+</svg>
