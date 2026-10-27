@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Leftovers from the retired Capacitor builds (signing key + APKs). Never commit these.
+android/
+ios/
+dist-mobile/
+*.keystore
+*.jks
+
+*.log
+.DS_Store
